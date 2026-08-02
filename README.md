@@ -33,7 +33,7 @@
 
 🎓 I’m studying **Computer Science and Economics at the University of North Carolina at Chapel Hill**
 
-💻 I’m currently a **Software Engineering Intern at SAS**, where I build Python-based testing infrastructure for cloud and on-premises data connection engines. 
+💻 I’m currently a **Software Engineering Intern at SAS Institute**, where I build Python-based testing infrastructure for cloud and on-premises data connection engines. 
 
 ⚙️ My interests include **backend systems, data pipelines, APIs, automated testing, cloud infrastructure, and developer tools**
 

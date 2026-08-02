@@ -39,7 +39,7 @@
 
 🚀 I’m currently learning more about **distributed systems, Docker, Kubernetes, AWS, Azure, and production data engineering**
 
-🧪 At SAS, I helped develop a modular testing framework that reduced test implementation size by about **80%%** while improving maintainability and defect isolation.
+🧪 At SAS, I helped develop a modular testing framework that reduced test implementation size by about **80%** while improving maintainability and defect isolation.
 
 🧩 I also develop software for **Chapel Thrill Escapes**, including Python and React applications that integrate with live puzzle-control systems
 
